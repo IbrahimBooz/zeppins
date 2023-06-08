@@ -410,20 +410,48 @@
     }
 
     .about-menu ul {
-        gap: 14px;
-        width: 100%;
         display: flex;
+        gap: 0;
+        align-items: center;
+        text-align: center;
+        justify-content: flex-start;
     }
 
     .about-menu ul li {
-        font-size: 14px;
+        justify-content: left;
+        display: inline;
+        font-size: 12px;
         line-height: 20px;
         font-family: 'Montserrat', sans-serif;
-        margin: 0;
         position: relative;
         padding: 0;
+        width: 40%;
+        gap: 0;
+        margin-left: -10px;
+    }
+    .about-menu ul li:nth-child(2) {
+        justify-content: left;
+        display: inline;
+        font-size: 12px;
+        line-height: 20px;
+        font-family: 'Montserrat', sans-serif;
+        position: relative;
+        padding: 0;
+        width: 40%;
+        gap: 0;
+        margin-left: -30px;
+    }
 
-
+    .about-menu ul li:first-child {
+        margin-left: -30px;
+        display: inline;
+        font-size: 12px;
+        line-height: 20px;
+        font-family: 'Montserrat', sans-serif;
+        position: relative;
+        padding: 0;
+        width: 40%;
+        gap: 0;
     }
 
     .about-menu ul li::before {
