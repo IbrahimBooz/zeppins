@@ -323,11 +323,13 @@
 .footer img {
     margin-left: 35%;
 }
-.about-content-card-img img{
-width: 600px;
-height: 400px;}
 
-@media screen and (max-width:1200px) {
+.about-content-card-img img {
+    width: 100%;
+    height: 430px;
+}
+
+@media screen and (max-width:1300px) {
     body {
         width: 100%;
     }
@@ -422,6 +424,7 @@ height: 400px;}
         text-align: center;
         justify-content: flex-start;
     }
+
     .about-menu ul li {
         font-size: 12px;
         display: flex;
