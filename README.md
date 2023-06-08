@@ -6,14 +6,16 @@ https://ibzeppins.netlify.app/
 
 #Anasayfa!
 
-[Anasayfa](https://github.com/IbrahimBooz/zeppins/assets/109763478/a5c46243-c12e-423b-8988-673d9375d284)
+
+![Anasayfa](https://github.com/IbrahimBooz/zeppins/assets/109763478/fd8c0e83-85af-47ce-b511-b3229785a754)
 
 
 #Blog 
 
 
+![blog](https://github.com/IbrahimBooz/zeppins/assets/109763478/b48dd0d4-9c10-4bd9-854d-a103e9a87b76)
 
-https://github.com/IbrahimBooz/zeppins/assets/109763478/cef65321-b7fe-40ce-b11f-3683e7fd740e
+
 
 
 
