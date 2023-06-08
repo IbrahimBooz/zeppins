@@ -323,6 +323,9 @@
 .footer img {
     margin-left: 35%;
 }
+.about-content-card-img img{
+width: 600px;
+height: 400px;}
 
 @media screen and (max-width:1200px) {
     body {
